@@ -1,1 +1,1 @@
-s my alx project on 0x10-variadic_functions
+s is a remake for my 10th alx variadic functions project
